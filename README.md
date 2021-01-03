@@ -1,8 +1,4 @@
 # Git-Workshop
-Efficient and Green Workflow
 
-Issue command from Content directory:
+Efficient, Trackable and Sustainable Workflow
 
-```python3 Scripts/reportMarks.py > Output/Report.txt```
-
-It will read data fro Data/marks.csv
